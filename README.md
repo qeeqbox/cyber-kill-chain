@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/kill-chain/main/kill-chain.png"></p>
 
-## Threat Intelligence
+## Kill Chain
 
 
 ## Steps
