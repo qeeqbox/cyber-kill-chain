@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/kill-chain/main/kill-chain.png"></p>
 
-## Kill Chain
-Kill Chain is a model that Lockheed Martin created for understanding (Describe the sequence of events) and stopping cyberattacks
+## Cyber Kill Chain
+Cyber Kill Chain is a model that Lockheed Martin created for understanding (Describe the sequence of events) and stopping cyberattacks
 
 ## Steps
 #### Reconnaissance
